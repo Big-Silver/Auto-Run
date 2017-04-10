@@ -1,7 +1,7 @@
 # Auto-Run
 
 ## About
-This project was built using Javascript and JQUERY by [Big Silver].
+This project was built using Javascript and Jquery by [Big Silver].
 When URL is changed, the video or action run automatically regarding the content of page.
 
 ## Main.js
