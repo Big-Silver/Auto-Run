@@ -1,11 +1,3 @@
-# Auto-Run
-
-## About
-This project was built using Javascript and JQUERY by [Big Silver].
-When URL is changed, the video or action run automatically regarding the content of page.
-
-## Main.js
-```javascript
 $(document).ready(function()
 {
     var location = "";
@@ -20,12 +12,8 @@ $(document).ready(function()
             else if(window.location.href == "Domain Url2") {
                 //add code to action when url is changed to "Domain Url2"
             }
-
-            ....
-
             else
                 return;
         }        
     }, 1000);
 });
-```
